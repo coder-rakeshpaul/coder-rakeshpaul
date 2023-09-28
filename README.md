@@ -1,12 +1,12 @@
-👋 Hey there! I'm @coder-rakeshpaul, an enthusiast in the realm of machine learning, data science, and computer vision. 🚀
-🌱 Currently Leveling Up
+# 👋 Hey there! I'm @coder-rakeshpaul, an enthusiast in the realm of machine learning, data science, and computer vision. 🚀
 
+## 🌱 Currently Leveling Up
 I'm on a data science learning journey, honing my skills and expanding my horizons.
-💡 Seeking Collaborations
 
+## 💡 Seeking Collaborations
 I'm all ears for exciting machine learning projects and collaborations. Let's team up and create something amazing! 🤝
-📬 Reach Out to Me
 
+## 📬 Reach Out to Me
 Feel free to shoot me an email at coder.rakesh.paul@gmail.com. Let's connect and innovate together! 📫
 
 
