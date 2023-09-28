@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @coder-rakeshpaul
-- 👀 I’m interested in machinne learning, data science, and computer vision
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on a ML project
-- 📫 How to reach me coder.rakesh.paul@gmail.com 
+👋 Hey there! I'm @coder-rakeshpaul, an enthusiast in the realm of machine learning, data science, and computer vision. 🚀
+🌱 Currently Leveling Up
+
+I'm on a data science learning journey, honing my skills and expanding my horizons.
+💡 Seeking Collaborations
+
+I'm all ears for exciting machine learning projects and collaborations. Let's team up and create something amazing! 🤝
+📬 Reach Out to Me
+
+Feel free to shoot me an email at coder.rakesh.paul@gmail.com. Let's connect and innovate together! 📫
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-rakeshpaul&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
