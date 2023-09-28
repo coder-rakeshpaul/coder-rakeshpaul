@@ -12,7 +12,10 @@ Feel free to shoot me an email at coder.rakesh.paul@gmail.com. Let's connect and
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-rakeshpaul&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Contributions](https://github.com/coder-rakeshpaul)
+- Python: 90%
+- Data Science: 80%
+- Machine Learning: 85%
+
 
 <!---
 coder-rakeshpaul/coder-rakeshpaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
