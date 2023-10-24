@@ -22,8 +22,7 @@ I'm all ears for exciting machine learning projects and collaborations. Let's te
 Feel free to shoot me an email at [coder.rakesh.paul@gmail.com](mailto:coder.rakesh.paul@gmail.com). Let's connect and innovate together! 📫
 
 ## 🌐 Connect with Me
-- [LinkedIn](insert_linkedin_profile_link_here)
-- [Twitter](insert_twitter_profile_link_here)
-- [Portfolio Website](insert_portfolio_website_link_here)
+- [LinkedIn](https://www.linkedin.com/in/rakesh-paul-/)
+
 
 Let's dive into the world of data and code together! 📈
